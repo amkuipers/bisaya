@@ -1,0 +1,13 @@
+{
+  "name": "Bisaya Buddy",
+  "short_name": "Bisaya Buddy",
+  "description": "Translate and learn Dutch, English and Cebuano Bisaya — for kids aged 3 to 12.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbf7f0",
+  "theme_color": "#0f766e",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
